@@ -1,0 +1,13 @@
+.Central{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    border: goldenrod 5px solid;
+    background-color: darkred;
+    color: wheat;
+    font-family: fantasy;
+}
+
+.video{
+    text-align: center;
+}

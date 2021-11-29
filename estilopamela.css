@@ -1,0 +1,48 @@
+img{
+    max-height: 100px;
+    max-width: 250px;
+}
+body{
+    text-align: center;
+}
+
+*{
+    background-color: #ffecee;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.iframe{
+  width: 100%;
+
+}
+
+iframe{
+    display: grid;
+    margin: auto;
+}
+
+.abdominales{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.flexiones{
+    display: flex;
+    margin-top: 30px;
+    text-align: center;
+}
+.sentadillas{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+.cardio{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+.lateral{
+    padding: 10px;
+}
+.segundo{
+    margin-top: 50px;
+}

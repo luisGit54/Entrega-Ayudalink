@@ -1,0 +1,94 @@
+body{margin:0;
+    padding: 0;
+}
+div#arriba{
+    background-color: #f6f3f9;
+    width: 100%;
+     margin: 0 auto;
+     padding:1px 1px 1px;
+}
+
+    
+header{
+    background: url(template:100 px;) 
+    height: 100%;}
+
+    <div class="info header" id="ayudalink" style="width: 100%;">
+       
+<H3 style="padding:50px;">nuestro contenido</H3>
+<div class="contenedor" id="cajota" style="display: flex;height: 100%; flex-direction: row; ">
+    
+    <section id="libros" style="
+    background-color: lavenderblush;
+    border: 2px solid #999;
+    border-radius: 3px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    text-align: center;
+    flex-wrap: wrap;
+    font-family: fantasy;
+   
+   
+    
+    <div class="Caja1" style="display: flex; flex-direction:row;
+                                background-color: lightgreen;"   >
+        <div><button class="Juan"  style="height: 200px;"><img src="/Assets/imagenes/Fotojuan.png" alt="" max-width="100%"></button>
+        </div>
+        <div class="textojuan" style="margin: auto;" >
+            <h5 style="font-size: 20px;"> Cocina con Juan Z.</h5>
+
+    <div class="caja2" style="display: flex; flex-direction:row; background-color: rgb(128, 190, 172);" >
+        <div class="cajaagustin" style="height: 200px;">
+            
+               <button><img src="/Assets/imagenes/Foto Agustin.png" alt="" height="auto" max-width="100%"></button> 
+    
+        </div>
+    <div class="textoagustin"   style="margin: auto;">
+        <h5 style="font: size 20px; ;">Diseño y Estilo</h5>
+    
+
+    <div class="Caja3" style="display: flex; flex-direction:row; background-color: lightseagreen;" >
+        <div id="cajapamela"><button class="pamela" style="height: 200px;"><img src="/Assets/imagenes/Fotopamela.png" alt="" max-width="100%"></button>
+         </div>
+        <div id="textopamela" style="margin: auto;"> 
+            <h5 style="font-size: 20px;">Pole dance Y Fitness</h5>
+           
+    <div class="Caja3" style="display: flex; flex-direction:row; background-color: lightseagreen;" >
+        <div id="cajapamela"><button class="pamela" style="height: 200px;"><img src="assets/imagenes/fotopamela.png" alt="" max-width="100%"></button>
+        <div id="textopamela" style="margin: auto;"> 
+            <h5 style="font-size: 20px;">Pole dance Y Fitness</h5>
+
+
+</section>
+<div class="lateral" style="border: 1px lightskyblue solid;
+                            width: 30%;
+                            height: 85%;
+                            margin-left: 3px;">
+    
+
+<section id="Final"style="width: 100%;
+padding: 18px;
+background-color: transparent;
+border: 2px solid #999;
+border-radius: 3px;
+margin-bottom: 15px;x;">
+
+<section id="Comparte con nosotros" style="background: url(bg-stay.jpg);" class="pd-90">
+
+
+<div class="encabezado" style="text-align: center; margin-bottom: 20px;">
+       
+            <input class="form-input" type="text" placeholder="Nombre Completo">
+            <input class="form-input" type="email" placeholder="Direccion de correo">
+            <textarea name="" id="" cols="30" rows="10" placeholder="Cuentanos tu talento" ></textarea>        
+       <div style="display: flex;">
+           <div class="Check" style="width: 70%;">
+               <input id="Like" type="checkbox">
+               <label for="like" style="color: white;">Te Gusto el contenido?</label>
+        
+           <div class="btn" style="widows: 30%;">
+               <button  style="color: black;"
+        
+   <div class="contenedor" style="display: flex; align-items: center;">
